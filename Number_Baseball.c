@@ -25,6 +25,8 @@ int IsFind(int com[3], int index)
 			return 1;
 		}
 	}
+
+	
 	return re;
 }
 
